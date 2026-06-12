@@ -4,7 +4,7 @@
 </script>
 
 <template>
-    <article class="col-lg-3 col-md-6 col-sm-12 mb-4">
+    <article class="col-lg-3 col-md-6 col-sm-12 mb-4 ">
         <div class="card glass-effect placeholder-glow  shadow-sm rounded-4 p-3">
             <span class="placeholder bg-light ratio ratio-1x1 rounded-4"></span>
             <div class="card-body placeholder-glow">
