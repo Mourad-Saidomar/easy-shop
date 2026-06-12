@@ -1,0 +1,18 @@
+body{
+  background-color: #18243e;
+}
+
+
+
+/* je veux une class qui permet d'avoir un bg effet glace */
+.glass-effect {
+  background: rgba(178, 177, 177, 0.058);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+
+.form-control::placeholder {
+  color: white !important;
+  opacity: 1;
+}
