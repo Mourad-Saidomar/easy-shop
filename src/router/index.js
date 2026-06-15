@@ -37,7 +37,7 @@ const routes = [
 ]
 
 const router = createRouter({
-    history: createWebHistory('/shop-easy/'),
+    history: createWebHistory(),
     routes
 })
 export default router
